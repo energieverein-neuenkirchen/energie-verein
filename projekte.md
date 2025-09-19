@@ -4,9 +4,6 @@ title: Projekte
 ---
 
 
-
-
-
 # Unsere Projekte
 
 Wir entwickeln Ideen für Energieprojekte im Dorf. Beispiele:
