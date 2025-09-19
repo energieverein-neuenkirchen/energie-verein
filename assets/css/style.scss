@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+nav a {
+  white-space: nowrap; /* kein Umbruch bei langen Titeln */
+  margin-right: 15px;  /* Abstand zwischen Links */
+}
