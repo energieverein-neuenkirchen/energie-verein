@@ -41,7 +41,7 @@ Jeder kann mitmachen – egal ob privat, Landwirt oder Unternehmen.
 ---
 
 ## Kontakt
-📧 energieverein.neuenkirchen@gmail.com 
+📧 energieverein.neuenkirchen@gmail.com  
 ☎ Steffen Kellermann – 0172 6824076  
 ☎ Christian Buschmann – 0174 9946761  
 ☎ Nils Landwehr – 0174 3928563
