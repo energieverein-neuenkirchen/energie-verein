@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Energie-Verein Neuenkirchen
+title: Energie fürs Dorf – Energie-Verein Neuenkirchen
 ---
 
-# Energie fürs Dorf – Energie-Verein Neuenkirchen
 
 🌱 Gemeinsam die Energiewende lokal gestalten – fair, transparent und für alle.
 
