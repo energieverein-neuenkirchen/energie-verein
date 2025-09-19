@@ -1,1 +1,1 @@
-energie-verein
+Energie-Verein Neuenkirchen
