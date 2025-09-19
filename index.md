@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Energie fürs Dorf – Energie-Verein Neuenkirchen
+title: Start
 ---
 
 
