@@ -1,9 +1,36 @@
 ---
 ---
 
+/* Minima laden */
 @import "{{ site.theme }}";
 
-nav a {
-  white-space: nowrap; /* kein Umbruch bei langen Titeln */
-  margin-right: 15px;  /* Abstand zwischen Links */
+/* NAV: alles in eine Zeile, saubere Abstände */
+.site-nav {
+  display: flex;
+  flex-wrap: nowrap;        /* kein Zeilenumbruch */
+  align-items: center;
+  gap: 14px;                /* Abstand zwischen Links */
+}
+
+/* Links nicht umbrechen */
+.site-nav .page-link {
+  white-space: nowrap;
+}
+
+/* Titel links, Links rechts daneben */
+.site-title {
+  margin-right: 24px;
+}
+
+/* Falls es trotzdem eng wird: minimal kleinere Schrift ab 900px Breite */
+@media (max-width: 900px) {
+  .site-nav .page-link { font-size: 0.95rem; }
+  .site-title { font-size: 1.3rem; }
+}
+
+/* Optional: ganz schmale Screens – horizontal scrollen statt umbrechen */
+@media (max-width: 700px) {
+  .site-nav {
+    overflow-x: auto;
+  }
 }
