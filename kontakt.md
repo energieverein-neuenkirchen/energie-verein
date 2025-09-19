@@ -1,6 +1,6 @@
 # Kontakt
 
-Energie fürs Dorf – Neuenkirchen e.V.  
+Energie-Verein Neuenkirchen  
 📧 info@energie-verein-neuenkirchen.de  
 📞 0172 6824076 (Steffen Kellermann)  
 📞 0174 9946761 (Christian Buschmann)  
