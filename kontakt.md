@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kontakt
+---
+
+
 # Kontakt
 
 Energie-Verein Neuenkirchen  
