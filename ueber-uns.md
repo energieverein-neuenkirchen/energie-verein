@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Über uns
+title: Über uns 
 ---
 
 # Warum ein Verein?
