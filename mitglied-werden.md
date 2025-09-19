@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mitglied
+---
+
+
+
 # Mitglied werden
 
 **Vorteile:**
