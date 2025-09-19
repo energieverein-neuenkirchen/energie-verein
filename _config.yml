@@ -1,1 +1,10 @@
 theme: minima
+
+header_pages:
+  - index.md
+  - ueber-uns.md
+  - projekte.md
+  - termine.md
+  - mitglied-werden.md
+  - downloads.md
+  - kontakt.md
