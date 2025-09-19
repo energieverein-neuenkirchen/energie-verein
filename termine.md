@@ -1,3 +1,8 @@
+---
+layout: default
+title: Termine
+---
+
 # Termine
 
 Hier findest du aktuelle Versammlungen und Treffen.
