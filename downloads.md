@@ -3,7 +3,6 @@ layout: default
 title: Downloads
 ---
 
-
 # Downloads
 
 Hier findest du wichtige Unterlagen:
