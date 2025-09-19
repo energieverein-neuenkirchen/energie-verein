@@ -1,3 +1,8 @@
+---
+layout: default
+title: Über uns
+---
+
 # Über uns
 
 Wir sind Bürgerinnen und Bürger aus Neuenkirchen, die sich für eine nachhaltige Energieversorgung im Dorf einsetzen.
