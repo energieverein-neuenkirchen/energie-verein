@@ -8,4 +8,5 @@
 
 👉 [Beitrittserklärung herunterladen](downloads.md)
 
-Kontakt: info@energie-verein-neuenkirchen.de
+Kontakt: energieverein.neuenkirchen@gmail.com
+
