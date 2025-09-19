@@ -1,4 +1,3 @@
-title: Energie fürs Dorf – Neuenkirchen e.V.
 theme: minima
-url: "https://energieverein-neuenkirchen.github.io"
-baseurl: "/energie-verein"
+plugins:
+  - jekyll-feed
